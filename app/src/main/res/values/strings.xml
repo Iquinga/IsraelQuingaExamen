@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IsraelQuingaExamen</string>
+    <string name="titulo_login">Login</string>
+    <string name="btn_ingresar">Ingresar</string>
+</resources>
